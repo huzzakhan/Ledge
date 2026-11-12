@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key>
+    <string>Ledge</string>
+    <key>CFBundleDisplayName</key>
+    <string>Ledge</string>
+    <key>CFBundleIdentifier</key>
+    <string>app.ledge.dock</string>
+    <key>CFBundleExecutable</key>
+    <string>Ledge</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>__VERSION__</string>
+    <key>CFBundleVersion</key>
+    <string>1</string>
+    <key>CFBundleIconFile</key>
+    <string>AppIcon</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>13.0</string>
+    <key>LSUIElement</key>
+    <true/>
+    <key>LSApplicationCategoryType</key>
+    <string>public.app-category.productivity</string>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+    <key>NSAppleEventsUsageDescription</key>
+    <string>Ledge controls Music and Spotify playback, Dark Mode and the macOS Dock for you.</string>
+    <key>NSRemindersUsageDescription</key>
+    <string>Ledge shows your reminders and lets you add and check them off.</string>
+    <key>NSRemindersFullAccessUsageDescription</key>
+    <string>Ledge shows your reminders and lets you add and check them off.</string>
+    <key>NSCalendarsUsageDescription</key>
+    <string>Ledge shows your upcoming events next to the clock.</string>
+    <key>NSCalendarsFullAccessUsageDescription</key>
+    <string>Ledge shows your upcoming events next to the clock.</string>
+    <key>NSLocationUsageDescription</key>
+    <string>Ledge uses your approximate location to show local weather.</string>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>Ledge uses your approximate location to show local weather.</string>
+    <key>NSBluetoothAlwaysUsageDescription</key>
+    <string>Ledge lets you turn Bluetooth on and off from the Quick Controls widget.</string>
+</dict>
+</plist>
